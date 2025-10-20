@@ -1,14 +1,15 @@
-Practical Exam: House sales¶
-RealAgents is a real estate company that focuses on selling houses.¶
+Practical Exam: House sales
 
-RealAgents sells a variety of types of houses in one metropolitan area.¶
+RealAgents is a real estate company that focuses on selling houses.
 
-Some houses sell slowly and sometimes require lowering the price in order to find a buyer.¶
+RealAgents sells a variety of types of houses in one metropolitan area.
 
-In order to stay competitive, RealAgents would like to optimize the listing prices of the houses it is trying to sell.¶
+Some houses sell slowly and sometimes require lowering the price in order to find a buyer.
 
-They want to do this by predicting the sale price of a house given its characteristics.¶
+In order to stay competitive, RealAgents would like to optimize the listing prices of the houses it is trying to sell.
 
-If they can predict the sale price in advance, they can decrease the time to sell.¶
+They want to do this by predicting the sale price of a house given its characteristics.
+
+If they can predict the sale price in advance, they can decrease the time to sell.
 
 For solving the exam, a linear model (base model) and a random forest (compare model) are used.
